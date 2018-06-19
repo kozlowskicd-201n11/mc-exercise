@@ -1,1 +1,2 @@
-# mc-exercise
+## J. Comment
+###### The lab was propitious because it provides an opportunity to see an issue of a merge conflict. Furthermore, submitting a git pull origin master on the terminal will sync-up to all accounts on the project. However, one user or collaborator will review correct and submit new changes with a git push origin master to sync all accounts. 
